@@ -19,6 +19,7 @@ header("location:redirect.php");
 </head>
 
 <body>
+	<h1> Creative Computing Society</h1>
 	<nav class="navbar fixed-top navbar-toggleable-md navbar-inverse navbar-dark bg-dark text-white navbar-expand-lg">
   <a class="navbar-brand">HelloWorld</a>
 
