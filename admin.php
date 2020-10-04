@@ -133,7 +133,7 @@ if(isset($_SESSION['acti']))
     <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password" name="password">
   </div>
   
-  <button type="submit" class="btn btn-primary" name="submit" value="login">Login</button>
+  <button type="submit" class="btn btn-primary" name="submit here" value="login">Login</button>
 </form>
       </div>
     </div>
